@@ -6,4 +6,6 @@ to use this program you need to have some things installed :
 2.BeautifulSoup from bs4 package (needs to be installed via pip install, v.4.11.1)
 3.CoinGeckoAPI from pycoingecko pakage ( needs to be installed via pip install, v.3.0.0)
 
-Once you have all 3 you can start using the bot
+Once you have all 3 you can start using the bot by entering your bot token that you recieve once you create the bot in
+order to control the bots behaviour.
+
